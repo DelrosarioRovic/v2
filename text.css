@@ -81,7 +81,7 @@ a:hover {
   width: 200px; 
   height: auto;
   position: absolute;
-  border-radius: 20%; /* Makes the images rounded */
+  border-radius: 10%; /* Makes the images rounded */
   box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5); /* Soft glow effect */
   transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out; /* Smooth effect */
 }
