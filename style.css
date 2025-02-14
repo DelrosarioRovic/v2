@@ -4,3 +4,20 @@ body {
   width: 100vw;
   height: 100vh;
 }
+
+.image1 {
+  width: 200px; 
+  height:auto;
+  position: absolute;
+  left: "10%";
+  top: "30%";
+  transform: rotate(35deg);
+}
+.image2 {
+  width: 200px; 
+  height:auto;
+  position: absolute;
+  right: "10%";
+  top: "30%";
+  transform: rotate(90deg);
+}
